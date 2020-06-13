@@ -2,6 +2,8 @@
 
 <p> 
 For the SacHacks 24 hour hackathon we build a Unity API for the Muse EEG Headband to push accessibility in the video game industry. The Muse headband provides access to electrical signal patterns for the 5 common brainwaves in the frontal cortex of the brain. This data is then used to detect actions like a blink or a jaw clench--anything that causes even the most minute of variation in the electric signal pattern in the frontal cortex. Once this detection is complete, these signals can be used as controls for absolutely anything in any game. We build out a basic verision of guitar hero fully functional and playable using just a person's mind! 
+  
+We achieved this by using the Muse headband and developing a socket connection in C# to stream the data to Unity. Then we developed an API in C# to abstract away the networking layer for application developers. Finally we developed a Guitar Hero MVP by writing the game logic in C# with free assets we found on the Unity Asset store. 
 </p>
 
 </p>
