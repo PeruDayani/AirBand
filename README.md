@@ -6,7 +6,9 @@ For the SacHacks 24 hour hackathon we build a Unity API for the Muse EEG Headban
 
 </p>
 Learn more about our project at:
-DevPost: https://devpost.com/software/air-band-pva2tn
-Website: https://anubhavshankar10.wixsite.com/airband
+<ul>
+<li> DevPost: https://devpost.com/software/air-band-pva2tn
+<li> Website: https://anubhavshankar10.wixsite.com/airband
+</ul>
 </p>
 
