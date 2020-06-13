@@ -12,3 +12,15 @@ Learn more about our project at:
 </ul>
 </p>
 
+<p>
+  The Team:
+  <ul>
+    <li> Peru Dayani      : Created idea, developed Unity API, networking stream to parse Muse Data, and Guitar Hero MVP
+    <li> Anubhav Shankar  : Created idea, conducted medical research to validate proposal and developed website
+    <li> Avik Sethia      : Created guitar hero music 
+  </ul>
+</p>
+      
+
+Special thanks to <a href= "https://www.linkedin.com/in/joshuayang42/"> Joshua Yang </a> for his mentorship and support.
+
